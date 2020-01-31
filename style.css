@@ -1,0 +1,14 @@
+h1{
+  color: blue;
+  font-family: cursive;
+  background-image: image();src=Darin;
+
+}
+h2{
+  color: red;
+  font-style: italic;
+  background-color: yellowgreen;
+}
+body{
+  background-color: teal;
+}
