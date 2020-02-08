@@ -1,6 +1,6 @@
 h1{
   color: blue;
-  font-family: cursive;
+  font-family: sans-serif;
 
 
 }
@@ -18,4 +18,14 @@ h2{
 }
 body{
   background-color: red;
+}
+
+.header{
+  box-sizing:25px;
+  color: black;
+  border-width: 10px;
+  border-style:double;
+  background-color: inherit;
+  bo
+
 }
