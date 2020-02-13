@@ -1,6 +1,6 @@
 h1{
-  color: blue;
-  font-family: sans-serif;
+  color: black;
+  font-family: monospace;
 
 
 }
@@ -10,6 +10,7 @@ h1{
   border-color: black;
   border-style: solid;
   background-color: white;
+  position:fixed;
 }
 h2{
   color: red;
@@ -28,4 +29,12 @@ body{
   background-color: inherit;
   bo
 
+}
+
+.header2{
+  box-sizing:10px;
+  color: white;
+  border-width: thin;
+  border-style: rigid;
+  background-color: orange;
 }
