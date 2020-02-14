@@ -1,0 +1,39 @@
+body{
+background-color: #199344;
+background-size: contain;
+font-size: 100px;
+
+}
+
+.box1{
+position: center;
+top: 50vh;
+color: black;
+width: 50%auto;
+height: 10%auto;
+top: 100px;
+right: 100px
+border: solid;
+background-color: blue;
+font-size: 50px;
+
+
+
+}
+
+.containter{
+  position: relative;
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 1000px;
+  height: 1000px;
+  top: 100px;
+  bottom: 50px;
+  background: pink;
+}
+.containter img{
+  top:100px;
+  left: 100px;
+  width: 50%;
+  height: 60%;
+}

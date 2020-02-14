@@ -37,4 +37,12 @@ body{
   border-width: thin;
   border-style: rigid;
   background-color: orange;
+}s
+
+.hands{
+  position: relative;
+  border-top: 50px;
+  border-bottom: 100px;
+  border-left: 100px;
+  border-right: 50%;
 }
