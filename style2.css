@@ -30,10 +30,30 @@ font-size: 50px;
   top: 100px;
   bottom: 50px;
   background: pink;
+  border-color: black;
+  border-style: dotted;
+
 }
 .containter img{
+margin-left: 25%;
+margin-top: 5%;
   top:100px;
   left: 100px;
   width: 50%;
   height: 60%;
+  border-color: black;
+  border-style: dotted;
+
+}
+.button{
+  font-size: 20px;
+  position: relative;
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+  top: 100px;
+  bottom: 50px;
+  background: pink;
+
 }
