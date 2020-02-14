@@ -1,40 +1,39 @@
 body{
   margin-left: 5%;
   margin-right: 5%;
-  background-color: #199344;
+  background-color: #1aed65;
   background-size: contain;
   font-size: 100px;
   font-family: bold;
+  border-style: solid;
+  border-color: white;
 
 }
 
 .box1{
-position: center;
-top: 50vh;
-color: black;
-width: 50%auto;
-height: 10%auto;
-top: 100px;
-right: 100px
-border: solid;
-background-color: blue;
-font-size: 50px;
 
+width: 990px;
+height: 100px;
+border: solid;
+border-color: black;
+background-color: #005aff;
+font-size: 50px;
 
 
 }
 
 .containter{
   position: relative;
-  margin-left: 50px;
-  margin-top: 30px;
-  width: 1000px;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 15px;
+  width: 990px;
   height: 1000px;
   top: 100px;
   bottom: 50px;
-  background: pink;
+  background: #f37070;
   border-color: black;
-  border-style: dotted;
+  border-style: solid;
 
 }
 .containter img{
@@ -45,11 +44,10 @@ margin-top: 5%;
   width: 50%;
   height: 60%;
   border-color: black;
-  border-style: dotted;
+  border-style: solid;
 
 }
 .button{
-font-size-adjust: auto;
   font-size: 20px;
   position: relative;
   margin-left: 50px;
@@ -58,8 +56,24 @@ font-size-adjust: auto;
   height: 100px;
   top: 100px;
   bottom: 50px;
-  background: pink;
+  background: #f37070;
+  margin-left: 10px;
+  border-style: solid;
+  border-color: black;
+}
 
+.smallbox{
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 25px;
+  width: 50px;
+  height: 50px;
+  top: 100px;
+  bottom: 50px;
+  border-style: solid;
+  border-color: black;
+  background: #f37070;
+;
 }
 
 .button:hover{
