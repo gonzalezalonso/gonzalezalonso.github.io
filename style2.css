@@ -60,19 +60,6 @@ margin-top: 5%;
   border-color: black;
 }
 
-.smallbox{
-  font-size: 20px;
-  margin-left: 50px;
-  margin-top: 25px;
-  width: 50px;
-  height: 50px;
-  top: 100px;
-  bottom: 50px;
-  border-style: solid;
-  border-color: black;
-  background: #f37070;
-;
-}
 
 .button:hover{
 color: blue;
