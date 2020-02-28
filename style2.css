@@ -1,17 +1,18 @@
 body{
   margin-left: 5%;
   margin-right: 5%;
-  background-color: white;
+  background-color: black;
   background-size: contain;
   font-size: 90px;
   font-family: bold;
-  border-style: solid;
-  border-color: white;
-
+  font color: white;
 }
-
+p{
+  color: white;
+  font-family: sans-serif;
+}
 .navbar{
-width: 990px;
+width: inherit;
 height: 100px;
 border: solid;
 border-color: black;
@@ -24,29 +25,78 @@ font-size: 50px;
   position: relative;
   margin-right: 10px;
   margin-left: 0px;
-  margin-top: 15px;
-  width: 990px;
-  height: 1000px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
   top: 100px;
   bottom: 50px;
-  background: #f37070;
-  border-color: black;
+  background: #FFD7C9;
+  border-color: white;
   border-style: solid;
 
 }
 .containter img{
-margin-left: 25%;
-margin-top: 5%;
-  top:100px;
-  left: 100px;
-  width: 50%;
-  height: 60%;
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
   border-color: black;
   border-style: solid;
-
 }
-
-
+.Conatainer0{
+  position: relative;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
+  top: 100px;
+  bottom: 50px;
+  background: #FFD7C9;
+  border-color: white;
+  border-style: solid;
+}
+.Conatainer0 img{
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
+  border-color: black;
+  border-style: solid;
+}
+.Container1{
+  position: relative;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
+  top: 100px;
+  bottom: 50px;
+  background: #FFD7C9;
+  border-color: white;
+  border-style: solid;
+}
+.Container1 img{
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
+  border-color: black;
+  border-style: solid;
+}
 .button:hover{
 color: blue;
 
