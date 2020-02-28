@@ -1,48 +1,103 @@
-h1{
-  color: black;
-  font-family: monospace;
-
+body{
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: black;
+  background-size: contain;
+  font-size: 90px;
+  font-family: bold;
+  font color: white;
+}
+p{
+  color: white;
+  font-family: sans-serif;
+}
+.navbar{
+width: inherit;
+height: 100px;
+border: solid;
+border-color: black;
+background-color: #005aff;
+font-size: 50px;
 
 }
-.box{
-  color: green;
-  border-width: 5px;
+
+.containter{
+  position: relative;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
+  top: 100px;
+  bottom: 50px;
+  background: #FFD7C9;
+  border-color: white;
+  border-style: solid;
+
+}
+.containter img{
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
   border-color: black;
   border-style: solid;
-  background-color: white;
-  position:fixed;
 }
-h2{
-  color: red;
-  font-style: italic;
-  background-color: yellowgreen;
-}
-body{
-  background-color: red;
-}
-
-.header{
-  box-sizing:25px;
-  color: black;
-  border-width: 10px;
-  border-style:double;
-  background-color: inherit;
-  bo
-
-}
-
-.header2{
-  box-sizing:10px;
-  color: white;
-  border-width: thin;
-  border-style: rigid;
-  background-color: orange;
-}s
-
-.hands{
+.Conatainer0{
   position: relative;
-  border-top: 50px;
-  border-bottom: 100px;
-  border-left: 100px;
-  border-right: 50%;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
+  top: 100px;
+  bottom: 50px;
+  background: #FFD7C9;
+  border-color: white;
+  border-style: solid;
+}
+.Conatainer0 img{
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
+  border-color: black;
+  border-style: solid;
+}
+.Container1{
+  position: relative;
+  margin-right: 10px;
+  margin-left: 0px;
+  margin-top: 40px;
+  width: inherit;
+  height: 350px;
+  top: 100px;
+  bottom: 50px;
+  background: #FFD7C9;
+  border-color: white;
+  border-style: solid;
+}
+.Container1 img{
+  margin-left: 2.5%;
+  margin-top: 1.5%;
+  margin-top: 2.v;
+  margin-bottom: inherit;
+  top:inherit;
+  left: inherit;
+  width:inherit;
+  height: inherit;
+  border-color: black;
+  border-style: solid;
+}
+.button:hover{
+color: blue;
+
 }
