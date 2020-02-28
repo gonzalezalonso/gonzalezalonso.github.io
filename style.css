@@ -11,6 +11,7 @@ p{
   color: white;
   font-family: sans-serif;
 }
+
 .navbar{
 width: inherit;
 height: 100px;
@@ -18,9 +19,13 @@ border: solid;
 border-color: black;
 background-color: #005aff;
 font-size: 50px;
+font-family: sans-serif;
 
 }
-
+.dropbtn{
+  margin-left: 300px;
+  background-color: green:
+}
 .containter{
   position: relative;
   margin-right: 10px;
